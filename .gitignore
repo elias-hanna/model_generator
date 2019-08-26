@@ -1,0 +1,4 @@
+# Qt creator generated files
+*.user
+# Remove useless libs
+libs/libfreenect2pclgrabber/*
